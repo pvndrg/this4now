@@ -9,5 +9,6 @@
 <body>
     <h1>Its work!</h1>
     <h2>update from git</h2>
+    <h3>auto update</h3>
 </body>
 </html>
