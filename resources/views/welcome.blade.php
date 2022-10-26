@@ -11,5 +11,7 @@
     <h2>update from git</h2>
     <h3>auto update</h3>
     <h4>auto update</h4>
+
+    <a href="{{ url('products') }}">Product Tab</a>
 </body>
 </html>
